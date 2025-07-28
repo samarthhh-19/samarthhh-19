@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samarth Dagar</h1>
+<h1 align="center">Hi👋, I'm Samarth Dagar</h1>
 <h3 align="center">I write bugs, then I fix them — eventually</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthhh-19&label=Profile%20views&color=0e75b6&style=flat" alt="samarthhh-19" /> </p>
